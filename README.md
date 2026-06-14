@@ -53,6 +53,4 @@ Accuracy: 100%
 Prediction: PHISHING EMAIL
 ```
 
-## Author
 
-Your Name
