@@ -1,0 +1,21 @@
+email,label
+"Dear user, verify your account immediately by clicking http://secure-login.xyz",phishing
+"Your PayPal account has been suspended. Login now.",phishing
+"Urgent! Update your password here http://bank-login.com",phishing
+"Congratulations! You won a prize. Click now.",phishing
+"Your bank account requires verification.",phishing
+"Meeting scheduled tomorrow at 10 AM.",safe
+"Please find the attached project report.",safe
+"Lunch with the team today at 1 PM.",safe
+"Happy Birthday! Have a wonderful day.",safe
+"Invoice attached for your purchase.",safe
+"Project deadline has been extended.",safe
+"Please review the latest documentation.",safe
+"Verify your email address immediately.",phishing
+"Reset your password now.",phishing
+"Click here to unlock your account.",phishing
+"Your salary has been credited.",safe
+"Weekly meeting agenda attached.",safe
+"Office will remain closed tomorrow.",safe
+"Security alert. Login immediately.",phishing
+"Your package has been shipped.",safe
